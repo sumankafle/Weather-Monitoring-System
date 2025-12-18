@@ -1,11 +1,9 @@
 # Weather-Monitoring-System
 Weather Monitoring System from my Bachelor 3rd sem Project. Later on I applied it in C++ during semester break.
 
-# Sensor Dashboard / Weather Logger
-
 # Author: Suman
 # Created: 2022/02/25 
-# Purpose: Compile and optionally upload C++ project for Arduino / Raspberry Pi
+# Purpose: Compile and optionally upload C++ project for Arduino / Linux
 
 **Try to reverse enginer *.ino file from internet into C++ project**
 
