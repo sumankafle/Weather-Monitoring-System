@@ -41,8 +41,8 @@ SensorDashboard/
 | ------------------ | ------------------------------------------------------------------ |
 | Adafruit_BMP085    | [GitHub link](https://github.com/adafruit/Adafruit_BMP085_Library) |
 | DHT / DHT_U        | [GitHub link](https://github.com/adafruit/DHT-sensor-library)      |
-| WiFiS3             | Usually comes with Arduino S3 boards or Arduino Library Manager    |
-| Arduino_LED_Matrix | Your LED Matrix library (from GitHub or vendor)                    |
+| WiFiS3             | follow shell script   |
+| Arduino_LED_Matrix |  follow shell script                  |
 ````
 
 SensorDashboard/
